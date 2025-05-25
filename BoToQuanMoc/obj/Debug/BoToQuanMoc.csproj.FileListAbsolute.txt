@@ -1,0 +1,42 @@
+C:\Users\Lenovo\Desktop\Stuff\BTQM\BoToQuanMoc\BoToQuanMoc\bin\Debug\BoToQuanMoc.exe.config
+C:\Users\Lenovo\Desktop\Stuff\BTQM\BoToQuanMoc\BoToQuanMoc\bin\Debug\BoToQuanMoc.exe
+C:\Users\Lenovo\Desktop\Stuff\BTQM\BoToQuanMoc\BoToQuanMoc\bin\Debug\BoToQuanMoc.pdb
+C:\Users\Lenovo\Desktop\Stuff\BTQM\BoToQuanMoc\BoToQuanMoc\obj\Debug\BoToQuanMoc.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Stuff\BTQM\BoToQuanMoc\BoToQuanMoc\obj\Debug\BoToQuanMoc.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\Stuff\BTQM\BoToQuanMoc\BoToQuanMoc\obj\Debug\BoToQuanMoc.LoginForm.resources
+C:\Users\Lenovo\Desktop\Stuff\BTQM\BoToQuanMoc\BoToQuanMoc\obj\Debug\BoToQuanMoc.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Stuff\BTQM\BoToQuanMoc\BoToQuanMoc\obj\Debug\BoToQuanMoc.RegisterForm.resources
+C:\Users\Lenovo\Desktop\Stuff\BTQM\BoToQuanMoc\BoToQuanMoc\obj\Debug\BoToQuanMoc.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Stuff\BTQM\BoToQuanMoc\BoToQuanMoc\obj\Debug\BoToQuanMoc.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Stuff\BTQM\BoToQuanMoc\BoToQuanMoc\obj\Debug\BoToQuanMoc.exe
+C:\Users\Lenovo\Desktop\Stuff\BTQM\BoToQuanMoc\BoToQuanMoc\obj\Debug\BoToQuanMoc.pdb
+C:\Users\Lenovo\Desktop\Stuff\BTQM\BoToQuanMoc\BoToQuanMoc\obj\Debug\CafeShopManagementSystem.AdminAddUsers.resources
+C:\Users\Lenovo\Desktop\Stuff\BTQM\BoToQuanMoc\BoToQuanMoc\obj\Debug\BoToQuanMoc.AdminMainForm.resources
+C:\Users\Lenovo\Desktop\Stuff\BTQM\BoToQuanMoc\BoToQuanMoc\obj\Debug\BoToQuanMoc.AdminDashBoard.resources
+C:\Users\Lenovo\Desktop\Stuff\BTQM\BoToQuanMoc\BoToQuanMoc\obj\Debug\CafeShopManagementSystem.AdminAddProducts.resources
+C:\Users\Lenovo\Desktop\Stuff\BTQM\BoToQuanMoc\BoToQuanMoc\obj\Debug\BoToQuanMoc.CashierMainForm.resources
+C:\Users\Lenovo\Desktop\Stuff\BTQM\BoToQuanMoc\BoToQuanMoc\obj\Debug\CafeShopManagementSystem.CashierOrderForm.resources
+C:\Users\Lenovo\Desktop\Stuff\BTQM\BoToQuanMoc\BoToQuanMoc\bin\Debug\BTQM.mdf
+C:\Users\Lenovo\Desktop\Stuff\BTQM\BoToQuanMoc\BoToQuanMoc\bin\Debug\BTQM_log.ldf
+C:\Users\Lenovo\Desktop\Stuff\BTQM\BoToQuanMoc\BoToQuanMoc\obj\Debug\CafeShopManagementSystem.CashierCustomersForm.resources
+C:\Users\Lenovo\Desktop\Stuff\BTQM\03_NguyenHoaiVietChuong_2431101169404_BòTơQuánMộc\Chương trình ứng dụng\BoToQuanMoc\BoToQuanMoc\bin\Debug\BTQM.mdf
+C:\Users\Lenovo\Desktop\Stuff\BTQM\03_NguyenHoaiVietChuong_2431101169404_BòTơQuánMộc\Chương trình ứng dụng\BoToQuanMoc\BoToQuanMoc\bin\Debug\BTQM_log.ldf
+C:\Users\Lenovo\Desktop\Stuff\BTQM\03_NguyenHoaiVietChuong_2431101169404_BòTơQuánMộc\Chương trình ứng dụng\BoToQuanMoc\BoToQuanMoc\bin\Debug\BoToQuanMoc.exe.config
+C:\Users\Lenovo\Desktop\Stuff\BTQM\03_NguyenHoaiVietChuong_2431101169404_BòTơQuánMộc\Chương trình ứng dụng\BoToQuanMoc\BoToQuanMoc\bin\Debug\BoToQuanMoc.exe
+C:\Users\Lenovo\Desktop\Stuff\BTQM\03_NguyenHoaiVietChuong_2431101169404_BòTơQuánMộc\Chương trình ứng dụng\BoToQuanMoc\BoToQuanMoc\bin\Debug\BoToQuanMoc.pdb
+C:\Users\Lenovo\Desktop\Stuff\BTQM\03_NguyenHoaiVietChuong_2431101169404_BòTơQuánMộc\Chương trình ứng dụng\BoToQuanMoc\BoToQuanMoc\obj\Debug\BoToQuanMoc.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Stuff\BTQM\03_NguyenHoaiVietChuong_2431101169404_BòTơQuánMộc\Chương trình ứng dụng\BoToQuanMoc\BoToQuanMoc\obj\Debug\BoToQuanMoc.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\Stuff\BTQM\03_NguyenHoaiVietChuong_2431101169404_BòTơQuánMộc\Chương trình ứng dụng\BoToQuanMoc\BoToQuanMoc\obj\Debug\BoToQuanMoc.CashierMainForm.resources
+C:\Users\Lenovo\Desktop\Stuff\BTQM\03_NguyenHoaiVietChuong_2431101169404_BòTơQuánMộc\Chương trình ứng dụng\BoToQuanMoc\BoToQuanMoc\obj\Debug\CafeShopManagementSystem.AdminAddProducts.resources
+C:\Users\Lenovo\Desktop\Stuff\BTQM\03_NguyenHoaiVietChuong_2431101169404_BòTơQuánMộc\Chương trình ứng dụng\BoToQuanMoc\BoToQuanMoc\obj\Debug\CafeShopManagementSystem.AdminAddUsers.resources
+C:\Users\Lenovo\Desktop\Stuff\BTQM\03_NguyenHoaiVietChuong_2431101169404_BòTơQuánMộc\Chương trình ứng dụng\BoToQuanMoc\BoToQuanMoc\obj\Debug\BoToQuanMoc.AdminMainForm.resources
+C:\Users\Lenovo\Desktop\Stuff\BTQM\03_NguyenHoaiVietChuong_2431101169404_BòTơQuánMộc\Chương trình ứng dụng\BoToQuanMoc\BoToQuanMoc\obj\Debug\BoToQuanMoc.LoginForm.resources
+C:\Users\Lenovo\Desktop\Stuff\BTQM\03_NguyenHoaiVietChuong_2431101169404_BòTơQuánMộc\Chương trình ứng dụng\BoToQuanMoc\BoToQuanMoc\obj\Debug\BoToQuanMoc.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Stuff\BTQM\03_NguyenHoaiVietChuong_2431101169404_BòTơQuánMộc\Chương trình ứng dụng\BoToQuanMoc\BoToQuanMoc\obj\Debug\BoToQuanMoc.RegisterForm.resources
+C:\Users\Lenovo\Desktop\Stuff\BTQM\03_NguyenHoaiVietChuong_2431101169404_BòTơQuánMộc\Chương trình ứng dụng\BoToQuanMoc\BoToQuanMoc\obj\Debug\BoToQuanMoc.AdminDashBoard.resources
+C:\Users\Lenovo\Desktop\Stuff\BTQM\03_NguyenHoaiVietChuong_2431101169404_BòTơQuánMộc\Chương trình ứng dụng\BoToQuanMoc\BoToQuanMoc\obj\Debug\CafeShopManagementSystem.CashierCustomersForm.resources
+C:\Users\Lenovo\Desktop\Stuff\BTQM\03_NguyenHoaiVietChuong_2431101169404_BòTơQuánMộc\Chương trình ứng dụng\BoToQuanMoc\BoToQuanMoc\obj\Debug\CafeShopManagementSystem.CashierOrderForm.resources
+C:\Users\Lenovo\Desktop\Stuff\BTQM\03_NguyenHoaiVietChuong_2431101169404_BòTơQuánMộc\Chương trình ứng dụng\BoToQuanMoc\BoToQuanMoc\obj\Debug\BoToQuanMoc.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Stuff\BTQM\03_NguyenHoaiVietChuong_2431101169404_BòTơQuánMộc\Chương trình ứng dụng\BoToQuanMoc\BoToQuanMoc\obj\Debug\BoToQuanMoc.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Stuff\BTQM\03_NguyenHoaiVietChuong_2431101169404_BòTơQuánMộc\Chương trình ứng dụng\BoToQuanMoc\BoToQuanMoc\obj\Debug\BoToQuanMoc.exe
+C:\Users\Lenovo\Desktop\Stuff\BTQM\03_NguyenHoaiVietChuong_2431101169404_BòTơQuánMộc\Chương trình ứng dụng\BoToQuanMoc\BoToQuanMoc\obj\Debug\BoToQuanMoc.pdb
